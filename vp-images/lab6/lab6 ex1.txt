@@ -1,0 +1,13 @@
+Clasa Student are atributele nume, adresa, nrTelefon, email, IDstudent, mediaNotelor. Toate aceste atribute sunt private. De asemenea clasa Student mai are si doua metode publice: esteEligibilInscriere() si getSeminariiAlese().
+
+Clasa Inscriere are atributul privat notePrimite si metodele publice getMediaLaZi() si getNotaFinala().
+
+Clasa Seminar are atributele private nume, IDseminar si taxe, iar ca metode: addStudent() si dropStudent(), ambele fiind publice.
+
+Clasa Profesor are atributele private nume, adresa, nrTelefon, email, salar.
+
+Clasele Student si Inscriere se afla intr-o relatie de asociere unidirectionala. Un student trebuie sa se inscrie la cel putin un seminar. Iar inscrierea este a unui singur student.
+
+Clasele Student si Seminar se afla intr-o relatie de asociere unidirectionala. Un student poate fi inscris la oricate seminarii sau niciunul, iar un seminar poate avea mai multi studenti sau niciunul pe lista de asteptare.
+
+Clasele Profesor si Seminar se afla intr-o relatie de asociere bidirectionala. Un profesor poate preda la mai multe seminarii sau la niciunul, iar un seminar poate avea maxim un profesor care preda.
