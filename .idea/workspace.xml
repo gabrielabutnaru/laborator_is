@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="146f7782-b253-4171-966e-447019380069" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/vp-images/lab1/lab1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vp-images/lab2/lab2_1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vp-images/lab2/lab2_2).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vp-images/lab2/lab2_3).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vp-images/lab3/lab3 1) authorize access.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vp-images/lab3/lab3 1) leave a message.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vp-images/lab3/lab3 1) review messages locally.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vp-images/lab3/lab3 1) review messages remotely.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vp-images/lab3/lab3 1) review messages.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vp-images/lab3/lab3 1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vp-images/lab3/lab3 2) actualizeaza nota.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vp-images/lab3/lab3 2) inregistreaza note.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vp-images/lab4/lab4 1 rezerva masina).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vp-images/lab4/swimlane.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vp-images/lab5/lab5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vp-images/lab6/E1. Corecte d).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vp-images/lab6/lab6 ex1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vp-images/lab6/lab6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vp-images/lab7/lab7.jpg" afterDir="false" />
-    </list>
+    <list default="true" id="146f7782-b253-4171-966e-447019380069" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,8 +30,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/gabri/OneDrive/Desktop/laborator_is/vp-images/lab4",
+    "git-widget-placeholder": "add-lab-files",
+    "last_opened_file_path": "C:/Users/gabri/OneDrive/Desktop/laborator_is/vp-images/lab10",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -62,11 +42,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gabri\OneDrive\Desktop\laborator_is\vp-images\lab10" />
+      <recent name="C:\Users\gabri\OneDrive\Desktop\laborator_is\vp-images\lab1" />
+      <recent name="C:\Users\gabri\OneDrive\Desktop\laborator_is\lab13" />
       <recent name="C:\Users\gabri\OneDrive\Desktop\laborator_is\vp-images\lab4" />
       <recent name="C:\Users\gabri\OneDrive\Desktop\laborator_is\vp-images\lab5" />
-      <recent name="C:\Users\gabri\OneDrive\Desktop\laborator_is\vp-images\lab6" />
-      <recent name="C:\Users\gabri\OneDrive\Desktop\laborator_is\vp-images\lab7" />
-      <recent name="C:\Users\gabri\OneDrive\Desktop\laborator_is\vp-images\lab3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\gabri\OneDrive\Desktop\laborator_is\vp-images\lab1" />
@@ -83,7 +63,7 @@
       <workItem from="1714042682487" duration="268000" />
       <workItem from="1714042969266" duration="1743000" />
       <workItem from="1717490934696" duration="1302000" />
-      <workItem from="1717873354092" duration="1227000" />
+      <workItem from="1717873354092" duration="1782000" />
     </task>
     <servers />
   </component>
