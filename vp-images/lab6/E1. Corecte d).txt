@@ -1,0 +1,53 @@
+E1. Corecte: d)
+Gresite:
+	- a) -  1) nu e o relatie de generalizare intre Carte si Produs
+		2) Produs este o interfata, nu o clasa
+	- b) -  nu e o relatie de generalizare intre Carte si Produs
+	- c) -  1) Produs este o interfata, nu o clasa
+		2) o clasa nu poate implementa o alta clasa
+	- e) -  o carte are mai multe capitole, nu un capitol are mai multe carti
+
+E2. Corecte: c), f)
+Gresite:
+	- a) - clasa Revista implementeaza, nu extinde clasa Produs
+	- b) - clasa Revista implementeaza clasa Produs, nu invers
+	- d) - trebuie si implementata functia getPret(), aici nu lasa loc de implementare "{...}" 
+	- e) - metoda getPret() e publica, nu protected
+	- g) - nu asa se declara metodele unui clase
+
+E3. Corecte: a), g), c)
+Gresite:
+	- b) - prima oara specificam tipul, apoi numele variabilei
+	- d) - atributul deadline e de tip privat, nu public
+	- e) - nu avem tipul de return specificat
+	- f) - un student nu mosteneste un proiect
+	- h) - limiteaza la o singura diagrama UML, in timp ce noi putem avea mai multe diagrame UML la un proiect
+
+E4. Corecte: b), d), f)
+Gresite:
+	- a) - invers
+	- c) - atributul este privat, nu public
+	- e) - operatia e publica, nu privata
+
+E5. Corecte: b)
+Gresite:
+	- a) - intre cele doua clase e o relatie de asociere, nu de mostenire
+	- c) - profesorul preda materia, nu materia preda profesorul ?
+	- d) - materia nu se afla in relatie de asociere cu ea insasi
+
+E6. Corecte: a), d), e)
+Gresite:
+	- b) - intre clasele Profesor si Materie este o relatie unidirectionala, nu bidirectionala
+	- c) - intre clasele Materie si Test este o relatie de asociere, nu de mostenire
+
+E7. Corecte: c)
+Gresite:
+	- a) - clasa Materie nu mosteneste clasa Laborator, aceste clase se afla in relatie de asociere
+	- b) - clasa Laborator nu mosteneste clasa Materie, aceste clase se afla in relatie de asociere
+	- d) - un laborator nu poate apartine de mai multe materii, este o relatie de compozitie
+	- e) - nu este facuta corecta initializarea colectiei
+
+E8. Corecte: 
+Gresite: 
+	- 
+	- e) clasele Curs, Laborator si Test nu mostenesc clasa Materie
